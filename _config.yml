@@ -1,7 +1,6 @@
 title: Your awesome title
 author:
   name: Palt0n
-  github: https://github.com/Palt0n
 description: > # this means to ignore newlines until "show_excerpts:"
   When not automating things at work, I automate things at home. As a
   tinkerer, I enjoy electronics design, 3D printing and managing my
@@ -18,7 +17,7 @@ minima:
   social_links:
     - { platform: github,         user_url: "https://github.com/palt0n/" }
     - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/10693679/palton" }
-    - { platform: reddit,        user_url: "https://www.reddit.com/user/Palton01" }
+    - { platform: reddit,        user_url: "https://www.reddit.com/user/Palton01" } #Can't work cause no reddit.svg
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
